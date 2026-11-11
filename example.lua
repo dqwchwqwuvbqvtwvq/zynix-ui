@@ -9,8 +9,8 @@ Library:SetTheme({
 local Window = Library:CreateWindow({
     Title = "Zynix Example",
     Subtitle = "All Components",
-    Width = 460,
-    Height = 360,
+    Width = 450,
+    Height = 300,
     TabWidth = 120,
     ToggleKey = Enum.KeyCode.RightShift
 })
