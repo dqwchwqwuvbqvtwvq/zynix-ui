@@ -8,7 +8,7 @@ Zynix UI provides a simple interface-building API with windows, tabs, interactiv
 
 ```lua
 local Library = loadstring(game:HttpGet(
-    "https://script-blush-six.vercel.app/3e8042a7b012/zynix.lua"
+    "https://zynixhub.my.id/3e8042a7b012/zynix.lua"
 ))()
 ```
 
@@ -16,7 +16,7 @@ local Library = loadstring(game:HttpGet(
 
 ```lua
 local Library = loadstring(game:HttpGet(
-    "https://script-blush-six.vercel.app/3e8042a7b012/zynix.lua"
+    "https://zynixhub.my.id/3e8042a7b012/zynix.lua"
 ))()
 
 local Window = Library:CreateWindow({
