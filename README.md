@@ -402,7 +402,7 @@ Window:Destroy()
 
 ```lua
 local Library = loadstring(game:HttpGet(
-    "https://script-blush-six.vercel.app/3e8042a7b012/zynix.lua"
+    "https://zynixhub.my.id/3e8042a7b012/zynix.lua"
 ))()
 
 local Window = Library:CreateWindow({
